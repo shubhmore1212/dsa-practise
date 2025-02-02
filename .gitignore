@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DataStructure/.vs/DataStructure/DesignTimeBuild
+/DataStructure/.vs/DataStructure/FileContentIndex
+/DataStructure/.vs/DataStructure/v17
+/DataStructure/.vs/ProjectEvaluation
+/DataStructure/DataStructure/obj/Debug/net8.0
+/DataStructure/DataStructure/obj
